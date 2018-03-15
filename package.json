@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-theme-hoard",
   "description": "Default theme for Hoard GitBook",
   "main": "./index.js",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "engines": {
     "gitbook": ">=3.0.0"
   },
